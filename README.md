@@ -53,7 +53,7 @@ python visualize_agent.py
 
 ## 📂 Project Structure
 ```bash
-warehouse-robo.py
+warehouse-robo.ipynb
 ├── Q-Learning.py         
 ├── DQN.py               # DQN model training script
 ├── Comparison.py        # Performance visualization
