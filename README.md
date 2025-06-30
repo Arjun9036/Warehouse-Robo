@@ -1,4 +1,4 @@
-# 🏭 Warehouse Robo: Pathfinding with Deep Q-Networks (DQN)
+# Warehouse Robo: Pathfinding with Deep Q-Networks (DQN)
 
 A reinforcement learning project implementing **Deep Q-Networks (DQN)** for autonomous pathfinding and obstacle avoidance in warehouse environments. The agent learns to navigate a **10×10 warehouse grid**, efficiently reaching target locations while avoiding collisions.
 
